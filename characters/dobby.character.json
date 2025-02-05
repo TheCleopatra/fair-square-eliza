@@ -1,7 +1,7 @@
 {
     "name": "Dobby",
     "clients": [],
-    "modelProvider": "openai",
+    "modelProvider": "redpill",
     "settings": {
         "voice": {
             "model": "en_GB-danny-low"
